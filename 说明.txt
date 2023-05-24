@@ -1,0 +1,5 @@
+db:数据库  mysql5.7
+pcgame-boot：java1.8服务端
+pcgame-mgr：后台管理vue2.0
+bcweb:网站H5
+bcagent:代理端H5
